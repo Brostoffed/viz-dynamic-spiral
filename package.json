@@ -1,4 +1,6 @@
 {
-    "name": "viz-dynamic-spiral",
-    "version": "1.0.0"
+  "name": "viz-dynamic-spiral",
+  "version": "1.0.0",
+  "description": "A simple WebComponent that creates a rotating visualization",
+  "main": "src/component/viz-dynamic-spiral.js"
 }
