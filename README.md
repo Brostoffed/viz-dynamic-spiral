@@ -7,4 +7,4 @@
 ```
 
 # Visual
-![](https://github.com/Brostoffed/viz-dynamic-spiral/resources/viz-dynamic-spiral.gif)
+![](https://github.com/Brostoffed/viz-dynamic-spiral/blob/main/resources/viz-dynamic-spiral.gif)
